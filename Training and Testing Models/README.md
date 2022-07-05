@@ -1,2 +1,0 @@
-# ML
-Learning ML concepts
