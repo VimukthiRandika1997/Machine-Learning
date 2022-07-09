@@ -1,2 +1,3 @@
 # Machine-Learning
-Experimenting Machine Learning Algorithms
+
+Experimenting Generative Learning Algorithms
