@@ -10,7 +10,7 @@ This Repository contains following branches:
 5. supervised_learning
 6. unsupervised_learning
 
-Each branch consists particular experiments, learning progres and projects I have been doing so far...
+Each branch consists particular experiments, learning progress and projects I have been doing so far...
 
 
 
